@@ -1,0 +1,127 @@
+{
+    "category": [
+      {
+        "id": "1234",
+        "title": "Infected",
+        "threatLvl": 1,
+        "description":"According to reports, you could dispatch one quickly with a well-placed head shot. I still wouldn't want to meet one in the dark. And certainly not in numbers."
+      },
+      {
+        "id": "2345",
+        "title": "Marked",
+        "threatLvl": 3,
+        "description":"More dangerous creatures than the regular infected, each one with strengths and weaknesses of their own."
+      },
+      {
+        "id": "3456",
+        "title": "Packs",
+        "threatLvl": 5,
+        "description":"Nasty creatures that can be found cohexisting in groups. Low threat individually, but that rarely occurs."
+      },
+      {
+        "id": "4567",
+        "title": "Roaming Target",
+        "threatLvl": 8,
+        "description":"Wild targets can be found on map containing only one of them"
+      },
+      {
+        "id": "5678",
+        "title": "Target",
+        "threatLvl": 10,
+        "description":"Between one and two boss lairs can be found on the map. Hunters collect clues to narrow down location of said lairs. The primary objectives are finding these lairs, killing & banishing the bosses, and extracting with their bounties."
+      }
+    ],
+    "monsters": [
+      {
+        "id": "abcd",
+        "name": "Grunt",
+        "categoryId": "1234",
+        "description":"It is quite difficult to perform any typological analysis of this Louisiana incident. I'm starting to think these events may have been the beginning of the zombie stories we have today. It certainly matches the pattern: Some kind of deadly infection hits a settlement, almost wipes out the whole population, and then the dead rise from their graves in order to feast on the living. Though this is the only zombie story I've heard where the zombies take up weapons - torches and blades in most cases - to wield against the living. The old adage holds: truth is always far stranger than fiction.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360013/grunt_hxdbkj.png"
+      },
+      {
+        "id": "bcde",
+        "name": "Armored",
+        "categoryId": "2345",
+        "description":"The Armored, its name has proved remarkably ambiguous. Some invoke a defensive figure, one that is willing to slip back into its shell. That could not be further from the apparent truth, as many accounts suggest the opposite. A creature well protected, enabled to go on dangerous offensives. A shock troop; with more mobility, and so flexibility, than the gigantic Meathead. To paraphrase George Washington, ´offensive operations are the surest means of defense.´ So, this specimen is seemingly equipped to relentless pursuit of its targets, protected from their retaliatory fire. One account cites it intelligent enough to smash through doors, though this cannot be verified.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360013/armored_v3dcly.png"
+      },
+      {
+        "id": "cdef",
+        "name": "Hive",
+        "categoryId": "2345",
+        "description":"Of the ten creatures I have researched thus far, it is the Hive who haunts my dreams. Though she appears to have been classified alongside the other Grunts, she was a far more dangerous creature, setting a swarm of insects upon any human in range until their bodies were punctured and swollen and heaving with their vile poison. Only her own death - the death of their host, the Hive Mother - stopped their persistent attacks. Though she could be safely killed from afar with a shot to the head, the positioning of her body made the task difficult even for the best marksmen. Blunt damage could harm her, though little else, and in the time it might have taken to try, her beastly swarms would have already stung their prey into flight or submission.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360013/hive_dhezkb.png"
+      },
+      {
+        "id": "defg",
+        "name": "Immolator",
+        "categoryId": "2345",
+        "description":"The Immolator seems to be the most tormented of them all. The smallest movement sends him into a rage, attacking chaotically, and when shot he burns even hotter and charges like an angry bull. He is, of course, extinguished in water (and can be fatally consumed by his own internal flames), but otherwise, represents the most intelligent example I have seen. The beast can actually open doors! I have noticed certain Biblical parallels in the story that - I believe - describes the very first occurrence. Did the religious factions have it right after all? I wonder. We both assumed that the folklore was just that: lore, scary bedtime stories. Another author's futile attempt to force linear, comprehensible human meaning onto an inexplicable event. What if this time, they got it right?",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360013/immolator_lxjokf.png"
+      },
+      {
+        "id": "efgh",
+        "name": "Meathead",
+        "categoryId": "2345",
+        "description":"Frankly, I'm not sure why they referred to this thing as a Meathead at all. The creature has no head. It could best be described as a bloated, headless, humanoid monster. More easily cut than shot; a hard hitter, but too well insulated to take much damage from a fist or a blunt object. It appears to have a symbiotic relationship with leeches, though these, too, are not the creatures you might recognize as such. The leeches appear to have acted as the creature's sensory organs, allowing him to see, to find prey, and to weaken that prey with their own poisonous bites. They are a clever extension of the creature, advance troops in a way.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360014/meathead_fmq5q1.png"
+      },
+      {
+        "id": "fghi",
+        "name": "Hellhound",
+        "categoryId": "3456",
+        "description":"First the facts: the so-called ´Hellhounds´ were pack animals (most often seen traveling in groups of between two and four), aggressive, and fast. These hounds would work together to take down a target, and while they do not appear to have any kind of special defenses, they did not have any particular vulnerabilities either. Now, I know I have said in the past that I find certain aspects of this case unbelievable. And yet, you must know that I do believe. If I did not, I would not be keeping this journal. But the Hellhound, omnipresent in myth and legend to the point of banality, strikes me as the one creature among them that is more likely a story than a reality. People have always feared dogs, even as they began to domesticate them and live side by side. Were these specimens really supernatural creatures, as reported? Or just highly aggressive, feral dogs, made all the nastier when the plague made food—and human kindness—scarce?",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360014/hellhound_rpotha.png"
+      },
+      {
+        "id": "ghij",
+        "name": "Waterdevil",
+        "categoryId": "3456",
+        "description":"Though it would be easy to mistake it for one many-tentacled creature, the Water Devil is in fact a swarm of smaller aquatic animals. It seemed to sense the presence of anything entering its home waters, and its movements were quick and decisive. Because of its swarm-like nature, it was hard to kill with bullets or any sort of melee attack, and often the best recourse was simply to run for the shore. For a long time, the waters of the bayou appeared to have gone silent. The usual wildlife had either fled, or been killed. Or both: it is likely that the creatures devoured whatever wildlife was not quick enough to flee to safer waters, but several populations of alligators clearly survived the infestation. Collins and Scognamiglio seem to agree on this point, as well as on the creatures' appearance, though at the moment, I find all of it a bit fantastic. No wonder, as our main surviving source on the subject of its appearance is a fictionalized version of the tale.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360014/waterdevil_gcpfek.png"
+      },
+      {
+        "id": "hijk",
+        "name": "Hellborn",
+        "categoryId": "4567",
+        "description":"I knew Mammon's Gulch before it had a name. Some believe that naming a thing has power, changes it, makes it yours. Well, it changed. Into a dog eat dog, man killing man, land. But now, something else is doing the killing. Crowled out of that broken ground. Fueled by hate, burning with rage, dripping fire. They named it Hellborn, but that ain´t giving nobody power over it. Born of hell it might just be, I aim to send it back.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360015/hellborn_nnjcwx.png"
+      },
+      {
+        "id": "ijkl",
+        "name": "Rotjaw",
+        "categoryId": "4567",
+        "description":"The Rotjaw, as we call this female alligator specimen, defies the physiology of any known aquatic reptile, or creature descended from ´living´ taxonomical orders. Putrefaction has encompassed her skull, leaving it bare and smooth. It is easily capable of crushing three men. The jaws instill in one a paleolithic fear, something felt by the first mammals to witness their parents eviscerated by reptiles. Moreso, the exposed skull is a tuning fork for energies unknown to man. The inept refer to it as electricity, though necrophagic energy is more appropriate.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360015/rotjaw_xwerow.png"
+      },
+      {
+        "id": "jklm",
+        "name": "Assassin",
+        "categoryId": "5678",
+        "description":"The arrival of the Assassin marks a surprising turning point in the Louisiana Case. Before its arrival, the entity's major aspects were certainly formidable combatants, though designed for other purposes. The humanoid Assassin seemed especially sculpted to shock humans, and destroy them. Accounts of such a creature are similar: that of a tall humanoid figure who can seemingly melt into a swarm of insects. Whether or not this is the result of trickery, or actual physical transformation, is debatable. Though with all things relating to this case, I am inclined toward belief in the most outlandish and bizarre theorizations one day, and incredulous the next.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360015/assassin_gwfnfy.png"
+      },
+      {
+        "id": "klmn",
+        "name": "Butcher",
+        "categoryId": "5678",
+        "description":"The huge bloated body - clearly a relative of the Meathead - with bits of wood and metal protruding from the skin. A leather apron covers the horrors of its torso, the head of a pig,and - and somehow this is the detail that I find most difficult to believe - a flaming hook. It is comfortable with fire and resistant to heat - likely thanks in part to the apron - and to bludgeoning. A regular bulletsponge, and though more fallible to rending attacks, it is hard for me to imagine how these people managed to kill any of them at all. When driven into a violent fury, its behavior would become erratic, and flames would fly from the aforementioned hook. I shudder to think. What it must have felt like to round a dark corner and come face to face with the empty eyes and glowing hook of that seemingly impossible beast?",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360015/butcher_zmzxwk.png"
+      },
+      {
+        "id": "lmno",
+        "name": "Scrapbeak",
+        "categoryId": "5678",
+        "description":"There are two distinct interpretations repeated among the Hunters who gather to exchange stories over their meager evening refreshments. Those who have faced Scrapbeak in combat place great emphasis on his behavior — the piercing, pain-ridden howls; the obsession with birds; and the hoarding of scrap and other objects both morbid and banal. It is these Hunters who gave him the name that has become parlance, and the same group suggest the creature is more bird than man — whether through close observation or a desire to still their conscience. It is far easier to kill a bird than to kill a man. Though perhaps I am naive.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360015/scrapbeak_ldmuu6.png"
+      },
+      {
+        "id": "mnop",
+        "name": "Spider",
+        "categoryId": "5678",
+        "description":"More people than you think suffer arachnophobia. A primal fear of something poisonous lurking, weaving traps, able to scale any surface. At odds, though, with its domestic function: keeping a dwelling clear of flies and other undesirable creatures. A spider the size of a quarter, though, is manageable. But, at the size of a horse, even the most rational and logical would recoil in disgust at an eight-legged arachnid, gnashing its mandibles, expelling coils of webbing.The Spider strikes the ardent occultist as one of the most outlandish and monstrous examples of the hysteria that so gripped the bayous. An example, though, that in all its multifaceted dimensions and exhaustive iterations, vindicates that hysteria.",
+        "image":"https://res.cloudinary.com/dh8naz2ht/image/upload/v1741360016/spider_swn18c.png"
+      }
+    ]
+  }
