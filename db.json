@@ -19,16 +19,16 @@
       "description": "Nasty creatures that can be found cohexisting in groups. Low threat individually, but that rarely occurs."
     },
     {
-      "id": "4567",
-      "title": "Roaming Target",
-      "threatLvl": 8,
-      "description": "Wild targets can be found on map containing only one of them"
-    },
-    {
       "id": "5678",
       "title": "Target",
       "threatLvl": 10,
       "description": "Between one and two boss lairs can be found on the map. Hunters collect clues to narrow down location of said lairs. The primary objectives are finding these lairs, killing & banishing the bosses, and extracting with their bounties."
+    },
+    {
+      "id": "4567",
+      "title": "Roaming Target",
+      "threatLvl": 8,
+      "description": "Wild targets can be found on map containing only one of them."
     }
   ],
   "monsters": [
