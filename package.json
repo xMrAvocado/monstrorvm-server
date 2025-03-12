@@ -19,6 +19,7 @@
   "homepage": "https://github.com/xMrAvocado/monstrorvm-server#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.7",
     "json-server": "^0.17.3"
   }
 }
